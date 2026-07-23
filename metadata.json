@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Script & Storyboard Creator",
+  "description": "Professional tool for generating high-converting product promo scripts, tailored storyboard visual prompts, and animation camera guidelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
